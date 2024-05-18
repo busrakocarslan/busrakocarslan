@@ -62,14 +62,15 @@
 
 | Project Name / Live Link          | Libraries and Technologies   | Project Preview
 |-----------------------------|--------------------------------------|--------------------------|
-[stock-app](https://stock-app-kcrsln.netlify.app) | React.js, React-redux, Redux/Toolkit, React-Router-Dom, Redux-Persist, React-toastify, Yup-Formik, Axios, Tailwind CSS, Prime React, CRUD Operation, REST API, POSTMAN, Redux DevTool | [Repo Link](repo linki)
-[todoapp-redux](https://todoapp-redux-kcrsln.netlify.app/) | React.js, React-redux, Redux/Toolkit, React-Router-Dom
-[proje ismi](canlı sayfanın linki) | Next.js, Redux/Toolkit, Axios, Firebase, Rest API, Tailwind CSS | [Repo Link](repo linki)
-[clarus-store-redux](https://redux-store-kcrsln.netlify.app/)  | React.js, React-Router-dom, Context-Api, Material UI, AXİOS, Pagination </br>   |  <img src="https://github.com/Busrakocarslan/clarus-store-redux/public/redux-store-gif.gif" width="320" height="240">
-[movie-app](movie-app-kcrsln.netlify.app/) | React.js, React-Router-dom, FİREBASE, Context -Api, TailWind CSS, AXİOS, React-Toastify, Custom Hook, React-Player |   [Repo Link](repo linki)
-[tailwind-proje](https://tailwind-card-kcrsln.netlify.app/) | React.js, React-Router-dom, Context -Api, TailWind CSS, AXİOS, Session Storage, Custom Hook | [Repo Link](repo linki)
-[router-project](https://reactrouter-proje-kcrsln.netlify.app/) |React.js, React-Router, React-Router-Hooks, CRUD, AXİOS, SweetAlert2, Bootstrap  | [Repo Link](repo linki)
-[sass-router](angora-cat-kcrsln.netlify.app/) |React.js, React-Router, React-icons, Sass/Scss   | [Repo Link](repo linki)
+[stock-app](https://stock-app-kcrsln.netlify.app) | React.js, React-redux, Redux/Toolkit, React-Router-Dom, React-toastify, Yup-Formik, Axios, Tailwind CSS, CRUD Operation, REST API, POSTMAN, Redux DevTool | 
+[todoapp-redux](https://todoapp-redux-kcrsln.netlify.app/) | React.js, React-redux, React-Router-Dom |<img src="https://github.com/busrakocarslan/todoapp-redux/blob/main/public/todoapp-redux-gif.gif" width="320" height="240">
+[react-tailwinds](https://tailwind-team-kcrsln.netlify.app/)  | React.js, React-Router-dom, Context-Api, TailWind CSS, AXİOS</br>   |  <img src="https://github.com/busrakocarslan/react-tailwind/blob/main/public/tailwind-team-gif.gif" width="320" height="240">
+[clarus-store-redux](https://redux-store-kcrsln.netlify.app/)  | React.js, React-Router-dom, Context-Api, Material UI, AXİOS</br>   |  <img src="https://github.com/busrakocarslan/clarus-store-redux/blob/main/public/redux-store-gif.gif" width="320" height="240">
+[movie-app](movie-app-kcrsln.netlify.app/) | React.js, React-Router-dom, FİREBASE, Context -Api, TailWind CSS, AXİOS, React-Toastify, Custom Hook, |   <img src="https://github.com/busrakocarslan/movie-app/blob/main/public/movie-app-gif.gif" width="320" height="240" >
+[tailwind-proje](https://tailwind-card-kcrsln.netlify.app/) | React.js, React-Router-dom, Context -Api, TailWind CSS, AXİOS, Session Storage, Custom Hook | <img src="https://github.com/busrakocarslan/tailwind-proje/blob/main/public/tailwind-gif.gif" width="320" height="240">
+[router-project](https://reactrouter-proje-kcrsln.netlify.app/) |React.js, React-Router, React-Router-Hooks, CRUD, AXİOS, SweetAlert2, Bootstrap  | <img src="https://github.com/busrakocarslan/router-project" width="320" height="240">
+[sass-router](angora-cat-kcrsln.netlify.app/) |React.js, React-Router, React-icons, Sass/Scss   | <img src="https://github.com/busrakocarslan/sass-router/blob/main/public/catAngora-gif.gif" width="320" height="240">
+[course-app](https://course-app-kcrsln.netlify.app/) | Next.js, Redux/Toolkit, Axios, Firebase, Rest API, Tailwind CSS |<img src="https://github.com/busrakocarslan/course-app/blob/main/public/img/course-app-gif.gif" width="320" height="240">
 
 <br>
 
