@@ -1,28 +1,84 @@
-<h1 align="center">Hi 👋, I'm Büşra</h1>
-
-<h3 align="center">A passionate fullstack developer from Turkey</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=busrakocarslan&label=Profile%20views&color=0e75b6&style=flat" alt="busrakocarslan" /> </p>
-
-<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
-
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,Python,Bootstrap,Sass,Node.js,MongoDB,Next.js**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/busrakocarslan21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/busrakocarslan21/" height="30" width="40" /></a>  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+ <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=600&size=21&pause=1000&color=F7AE22&center=true&vCenter=true&width=435&lines=%F0%9F%8C%99+I'm+...+%F0%9F%9A%80+Fullstack+Developer)](https://git.io/typing-svg)
+  
+</div>
+### Hi there 👋 I am Büşra ✨Fullstack  Developer✨<br>
+🎈 I’m a Fullstack developer<br>
+👩‍💻 I’m currently learning everything about software<br>
+🚀 Nowadays I am working as ....... 👩‍💻<br><br>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=kullanıcı ismi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="....." /> </p>
+## 📬 Connect with me 
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busrakocarslan21/)
+<!-- [![website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: mail ismi) -->
+<!-- [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/kullanıcı ismi) -->
+<br>
+<h2 align="center">🚀Technical Skills</h2>
+<div align="center">
+<img width="40px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
+<img width="40px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts" />
+<img width="40px" alt="python" title="python" src="https://skillicons.dev/icons?i=py&theme=light" />
+<img width="40px" alt="java" title="java" src="https://skillicons.dev/icons?i=java" />
+<img width="40px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
+<img width="40px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
+<img width="40px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
+<img width="40px" alt="django" title="django" src="https://skillicons.dev/icons?i=django" />
+<img width="40px" alt="firebase" title="firebase" src="https://skillicons.dev/icons?i=firebase" />
+<img width="40px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" />
+<!-- <img width="40px" alt="react  title="react native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
+<img width="40px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" />
+<img width="40px" alt="html5" title="html5" src="https://skillicons.dev/icons?i=html" />
+<img width="40px" alt="css3" title="css3" src="https://skillicons.dev/icons?i=css" />
+<img width="40px" alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
+<br/>
+<img width="40px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
+<img width="40px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=redux" />
+<img width="40px" alt="vite" title="vite" src="https://skillicons.dev/icons?i=vite" />
+<img width="40px" alt="vite" title="nextjs" src="https://skillicons.dev/icons?i=nextjs" />
+<!-- <img width="40px" alt="mysql" title="mysql" src="https://skillicons.dev/icons?i=mysql" /> -->
+<!-- <img width="40px" alt="postgresql" title="postgresql" src="https://skillicons.dev/icons?i=postgres" /> -->
+<!-- <img width="40px" alt="mongodb" title="mongodb" src="https://skillicons.dev/icons?i=mongodb" /> -->
+<img width="40px" alt="git" title="git" src="https://skillicons.dev/icons?i=git" />
+<img width="40px" alt="bash" title="bash" src="https://skillicons.dev/icons?i=bash" />
+<img width="40px" alt="linux" title="linux" src="https://skillicons.dev/icons?i=linux" />
+<img width="40px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
+<img width="40px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
+<img width="40px" alt="jupyter" title="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img width="40px" alt="photoshop" title="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+</div>
+</br>
+## ✨ My Projects ✨
+| Project Name / Live Link          | Libraries and Technologies      | Project Repo Link                    |
+|-----------------------------|--------------------------------------|---------------------------|
+[stock-app](https://stock-app-kcrsln.netlify.app) | React.js, React-redux, Redux/Toolkit, React-Router-Dom, Redux-Persist, React-toastify, Yup-Formik, Axios, Tailwind CSS, Prime React, CRUD Operation, REST API, POSTMAN, Redux DevTool | [Repo Link](repo linki)
+[todoapp-redux](https://todoapp-redux-kcrsln.netlify.app/) | React.js, React-redux, Redux/Toolkit, React-Router-Dom
+[proje ismi](canlı sayfanın linki) | Next.js, Redux/Toolkit, Axios, Firebase, Rest API, Tailwind CSS | [Repo Link](repo linki)
+[clarus-store-redux](redux-store-kcrsln.netlify.app) | React.js, React-Router-dom, Context-Api, Material UI, AXİOS, Pagination  |   [Repo Link](repo linki)
+[movie-app](movie-app-kcrsln.netlify.app/) | React.js, React-Router-dom, FİREBASE, Context -Api, TailWind CSS, AXİOS, React-Toastify, Custom Hook, React-Player |   [Repo Link](repo linki)
+[tailwind-proje](https://tailwind-card-kcrsln.netlify.app/) | React.js, React-Router-dom, Context -Api, TailWind CSS, AXİOS, Session Storage, Custom Hook | [Repo Link](repo linki)
+[router-project](https://reactrouter-proje-kcrsln.netlify.app/) |React.js, React-Router, React-Router-Hooks, CRUD, AXİOS, SweetAlert2, Bootstrap  | [Repo Link](repo linki)
+[sass-router](angora-cat-kcrsln.netlify.app/) |React.js, React-Router, React-icons, Sass/Scss   | [Repo Link](repo linki)
+<br>
+<h2 align="center">💡Most Used Language</h2>
+<div  align="center">
+<br/>
+<img
+     src="https://github-readme-stats.vercel.app/api?username=kullanıcı ismi&theme=blue-green"
+     alt=""
+     /> </br></br></br>
+<img
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kullanıcı ismi&theme=blue-green"
+     alt=""
+     /> <br/>
+</div>
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=kullanıcı ismi&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=busrakocarslan&show_icons=true&locale=en&layout=compact" alt="busrakocarslan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=busrakocarslan&show_icons=true&locale=en" alt="busrakocarslan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=busrakocarslan&" alt="busrakocarslan" /></p>
 
