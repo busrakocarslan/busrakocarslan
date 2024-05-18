@@ -14,7 +14,7 @@
 - 👩‍💻 I’m currently learning everything about software
 - 🚀 Nowadays I am working as ....... 👩‍💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=busrakocarslan&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="....." /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=busrakocarslan&label=Profile%20views&color=yellow&style=for-the-badge" alt="....." /> </p>
 
 ## 📬 Connect with me 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busrakocarslan21/)
