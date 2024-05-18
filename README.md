@@ -66,7 +66,7 @@
 [stock-app](https://stock-app-kcrsln.netlify.app) | React.js, React-redux, Redux/Toolkit, React-Router-Dom, Redux-Persist, React-toastify, Yup-Formik, Axios, Tailwind CSS, Prime React, CRUD Operation, REST API, POSTMAN, Redux DevTool | [Repo Link](repo linki)
 [todoapp-redux](https://todoapp-redux-kcrsln.netlify.app/) | React.js, React-redux, Redux/Toolkit, React-Router-Dom
 [proje ismi](canlı sayfanın linki) | Next.js, Redux/Toolkit, Axios, Firebase, Rest API, Tailwind CSS | [Repo Link](repo linki)
-[clarus-store-redux](redux-store-kcrsln.netlify.app) </br><h3> <img src="https://github.com/Busrakocarslan/clarus-store-redux/public/redux-store-gif.gif" width="320" height="240"></h3> | React.js, React-Router-dom, Context-Api, Material UI, AXİOS, Pagination  |   [Repo Link](repo linki)
+[clarus-store-redux](redux-store-kcrsln.netlify.app/)  | React.js, React-Router-dom, Context-Api, Material UI, AXİOS, Pagination </br> <h3> <img src="https://github.com/Busrakocarslan/clarus-store-redux/public/redux-store-gif.gif" width="320" height="240"></h3>  |   [Repo Link](repo linki)
 [movie-app](movie-app-kcrsln.netlify.app/) | React.js, React-Router-dom, FİREBASE, Context -Api, TailWind CSS, AXİOS, React-Toastify, Custom Hook, React-Player |   [Repo Link](repo linki)
 [tailwind-proje](https://tailwind-card-kcrsln.netlify.app/) | React.js, React-Router-dom, Context -Api, TailWind CSS, AXİOS, Session Storage, Custom Hook | [Repo Link](repo linki)
 [router-project](https://reactrouter-proje-kcrsln.netlify.app/) |React.js, React-Router, React-Router-Hooks, CRUD, AXİOS, SweetAlert2, Bootstrap  | [Repo Link](repo linki)
