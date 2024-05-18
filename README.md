@@ -78,7 +78,7 @@
 
 <div  align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Busrakocarslan&theme=orange-green" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Busrakocarslan&theme=blue-green" alt=""/>
   <br/><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Busrakocarslan&theme=blue-green" alt=""/>
   <br/>
