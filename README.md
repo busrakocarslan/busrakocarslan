@@ -14,7 +14,7 @@
 - 👩‍💻 I’m currently learning everything about software
 - 🚀 Nowadays I am working as ....... 👩‍💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kullanıcı ismi&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="....." /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=busrakocarslan&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="....." /> </p>
 
 ## 📬 Connect with me 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busrakocarslan21/)
@@ -26,18 +26,47 @@
 <h2 align="center">🚀 Technical Skills</h2>
 <div align="center">
   <img width="40px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
-  <!-- Ek teknik beceriler buraya eklenebilir -->
+ <img width="40px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
+<img width="40px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts" />
+<img width="40px" alt="python" title="python" src="https://skillicons.dev/icons?i=py&theme=light" />
+<img width="40px" alt="java" title="java" src="https://skillicons.dev/icons?i=java" />
+<img width="40px" alt="nodejs" title="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
+<img width="40px" alt="nestjs" title="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
+<img width="40px" alt="expressjs" title="expressjs" src="https://skillicons.dev/icons?i=express" />
+<img width="40px" alt="django" title="django" src="https://skillicons.dev/icons?i=django" />
+<img width="40px" alt="firebase" title="firebase" src="https://skillicons.dev/icons?i=firebase" />
+<img width="40px" alt="react" title="react" src="https://skillicons.dev/icons?i=react" />
+<img width="40px" alt="react  title="react native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="40px" alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" />
+<img width="40px" alt="html5" title="html5" src="https://skillicons.dev/icons?i=html" />
+<img width="40px" alt="css3" title="css3" src="https://skillicons.dev/icons?i=css" />
+<img width="40px" alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
+<br/>
+<img width="40px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
+<img width="40px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=redux" />
+<img width="40px" alt="vite" title="vite" src="https://skillicons.dev/icons?i=vite" />
+<img width="40px" alt="vite" title="nextjs" src="https://skillicons.dev/icons?i=nextjs" />
+<img width="40px" alt="mysql" title="mysql" src="https://skillicons.dev/icons?i=mysql" />
+<img width="40px" alt="postgresql" title="postgresql" src="https://skillicons.dev/icons?i=postgres" />
+<img width="40px" alt="mongodb" title="mongodb" src="https://skillicons.dev/icons?i=mongodb" />
+<img width="40px" alt="git" title="git" src="https://skillicons.dev/icons?i=git" />
+<img width="40px" alt="bash" title="bash" src="https://skillicons.dev/icons?i=bash" />
+<img width="40px" alt="linux" title="linux" src="https://skillicons.dev/icons?i=linux" />
+<img width="40px" alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
+<img width="40px" alt="postman" title="postman" src="https://skillicons.dev/icons?i=postman" />
+<img width="40px" alt="jupyter" title="jupyter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img width="40px" alt="photoshop" title="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 </div>
 </br>
 
 ## ✨ My Projects ✨
 
-| Project Name / Live Link          | Libraries and Technologies      | Project Repo Link                    |
-|-----------------------------|--------------------------------------|---------------------------|
+| Project Name / Live Link          | Libraries and Technologies   |
+|-----------------------------|--------------------------------------|
 [stock-app](https://stock-app-kcrsln.netlify.app) | React.js, React-redux, Redux/Toolkit, React-Router-Dom, Redux-Persist, React-toastify, Yup-Formik, Axios, Tailwind CSS, Prime React, CRUD Operation, REST API, POSTMAN, Redux DevTool | [Repo Link](repo linki)
 [todoapp-redux](https://todoapp-redux-kcrsln.netlify.app/) | React.js, React-redux, Redux/Toolkit, React-Router-Dom
 [proje ismi](canlı sayfanın linki) | Next.js, Redux/Toolkit, Axios, Firebase, Rest API, Tailwind CSS | [Repo Link](repo linki)
-[clarus-store-redux](redux-store-kcrsln.netlify.app) | React.js, React-Router-dom, Context-Api, Material UI, AXİOS, Pagination  |   [Repo Link](repo linki)
+[clarus-store-redux](redux-store-kcrsln.netlify.app) <img src="https://github.com/Busrakocarslan/clarus-store-redux/public/redux-store-gif.gif" width="320" height="240"> | React.js, React-Router-dom, Context-Api, Material UI, AXİOS, Pagination  |   [Repo Link](repo linki)
 [movie-app](movie-app-kcrsln.netlify.app/) | React.js, React-Router-dom, FİREBASE, Context -Api, TailWind CSS, AXİOS, React-Toastify, Custom Hook, React-Player |   [Repo Link](repo linki)
 [tailwind-proje](https://tailwind-card-kcrsln.netlify.app/) | React.js, React-Router-dom, Context -Api, TailWind CSS, AXİOS, Session Storage, Custom Hook | [Repo Link](repo linki)
 [router-project](https://reactrouter-proje-kcrsln.netlify.app/) |React.js, React-Router, React-Router-Hooks, CRUD, AXİOS, SweetAlert2, Bootstrap  | [Repo Link](repo linki)
@@ -49,12 +78,12 @@
 
 <div  align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=kullanıcı ismi&theme=blue-green" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Busrakocarslan&theme=blue-green" alt=""/>
   <br/><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kullanıcı ismi&theme=blue-green" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Busrakocarslan=kullanıcı ismi&theme=blue-green" alt=""/>
   <br/>
 </div>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=kullanıcı ismi&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Busrakocarslan ismi&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
 </p>
