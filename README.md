@@ -80,10 +80,10 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Busrakocarslan&theme=blue-green" alt=""/>
   <br/><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?Busrakocarslan=kullanıcı ismi&theme=blue-green" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Busrakocarslan&theme=blue-green" alt=""/>
   <br/>
 </div>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Busrakocarslan ismi&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Busrakocarslan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
 </p>
