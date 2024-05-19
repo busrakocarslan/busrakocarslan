@@ -12,7 +12,7 @@
 
 - 🎈 I’m a Fullstack developer
 - 👩‍💻 I’m currently learning everything about software
-- 🚀 Nowadays I am working as ....... 👩‍💻
+- 🚀 Nowadays I am working as 👩‍💻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=busrakocarslan&label=Profile%20views&color=orange&style=for-the-badge" alt="....." /> </p>
 
@@ -85,5 +85,5 @@
 </div>
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Busrakocarslan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Busrakocarslan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
 </p>
