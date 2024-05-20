@@ -82,8 +82,9 @@
   <br/><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Busrakocarslan&theme=jolly" alt=""/>
   <br/>
+   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Busrakocarslan&theme=black_ice&hide_border=true&stroke=0000&background=0D1117">
 </div>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Busrakocarslan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117">
-</p>
+<div>
+ 
+</div>
