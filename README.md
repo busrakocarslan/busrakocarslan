@@ -10,7 +10,7 @@
 
 ### Hi there 👋 I am Büşra, a ✨Fullstack Developer✨
 
-- 🎈 I’m a Fullstack developer
+- 🎈 I’m a FullStack developer
 - 👩‍💻 I’m currently learning everything about software
 - 🚀 Nowadays I am working as 👩‍💻
 
