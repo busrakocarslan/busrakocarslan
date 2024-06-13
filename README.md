@@ -40,8 +40,8 @@
 <img width="40px" alt="html5" title="html5" src="https://skillicons.dev/icons?i=html" />
 <img width="40px" alt="css3" title="css3" src="https://skillicons.dev/icons?i=css" />
 <img width="40px" alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
-<img width="40px" alt="cypress" title="cypress" src="https://skillicons.dev/icons?i=cypress" />
 <br/>
+<img width="40px" alt="cypress" title="cypress" src="https://skillicons.dev/icons?i=cypress" />
 <img width="40px" alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
 <img width="40px" alt="redux" title="redux" src="https://skillicons.dev/icons?i=redux" />
 <img width="40px" alt="vite" title="vite" src="https://skillicons.dev/icons?i=vite" />
