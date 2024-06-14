@@ -8,11 +8,11 @@
   
 </div>
 
-### Hi there 👋 I am Büşra, a ✨Fullstack Developer✨
+### Hi there 👩‍💻 I am Büşra, a ✨Fullstack Developer✨
 
 - 🎈 I’m a FullStack developer
 - 👩‍💻 I’m currently learning everything about software
-- 🚀 Nowadays I am working as 👩‍💻
+- 👩‍💻 Nowadays I am working as 👩‍💻
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=busrakocarslan&label=Profile%20views&color=orange&style=for-the-badge" alt="....." /> </p>
 
@@ -23,7 +23,7 @@
 
 <br>
 
-<h2 align="center">🚀 Technical Skills</h2>
+<h2 align="center">Technical Skills</h2>
 <div align="center">
 <img width="40px" alt="js" title="js" src="https://skillicons.dev/icons?i=js" />
 <img width="40px" alt="ts" title="ts" src="https://skillicons.dev/icons?i=ts" />
